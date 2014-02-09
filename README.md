@@ -18,11 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-''' ruby
+``` ruby
 require "mega_lotto"
 
 MegaLotto::Drawing.draw # => [23, 22, 3, 7, 16]
-'''
+```
 
 ## Contributing
 
