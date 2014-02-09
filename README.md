@@ -1,6 +1,6 @@
 # MegaLotto
 
-TODO: Write a gem description
+MegaLotto is a Ruby gem to help easilly generate lottery drawings
 
 ## Installation
 
@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+''' ruby
+require "mega_lotto"
+
+MegaLotto::Drawing.draw # => [23, 22, 3, 7, 16]
+'''
 
 ## Contributing
 
