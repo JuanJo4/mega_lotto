@@ -3,7 +3,9 @@
 MegaLotto is a Ruby gem to help easilly generate lottery drawings.
 
 This is the result of **Build a Ruby Gem** email course teached by [@BrandonHilkert](https://twitter.com/brandonhilkert).
-For more info visit [Learn to Build a Ruby Gem](http://brandonhilkert.com/books/build-a-ruby-gem/?utm_source=course-gem&utm_medium=email&utm_campaign=lesson5) the book he is writing.
+For more info visit [Learn to Build a Ruby Gem](http://brandonhilkert.com/books/build-a-ruby-gem/) the book he is writing.
+
+Thanks to [@BrandonHilkert](https://twitter.com/brandonhilkert)
 
 ## Installation
 
